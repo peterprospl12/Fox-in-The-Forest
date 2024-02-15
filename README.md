@@ -2,7 +2,7 @@
 [![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/peterprospl12/Fox-in-The-Forest/blob/main/README.pl.md)
 
 
-# Unity - Fox in The forest
+# Unity - Fox in The Forest
 
 The project consists of designing and developing a 2D platformer game using the Unity and the Sunny Land asset pack.
 
