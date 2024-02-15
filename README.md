@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/peterprospl12/Pizzeria-Simulation/blob/master/README.md)
-[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/peterprospl12/Pizzeria-Simulation/blob/master/README.pl.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/peterprospl12/Fox-in-The-Forest/blob/main/README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/peterprospl12/Fox-in-The-Forest/blob/main/README.pl.md)
 
 
 # Unity - Fox in The forest
