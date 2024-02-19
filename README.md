@@ -23,5 +23,5 @@ Our game qualified for the final stage of the contest. The games that made it to
 ## Authors
 
 - [@Piotr Sulewski](https://github.com/peterprospl12)
-- [@Tomasz Sankowski](https://www.github.com)
+- [@Tomasz Sankowski](https://www.github.com/tomaszsankowski)
 
